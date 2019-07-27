@@ -23,7 +23,7 @@
 <details>
 <p>
 
-![GUI](screen-01.png "GUI")
+![GUI](screens/screen-01.png "GUI")
 
 </p>
 </details>
