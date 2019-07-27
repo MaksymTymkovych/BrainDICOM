@@ -1,0 +1,21 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>qtquickcontrols2.conf</file>
+        <file>ui/Theme.qml</file>
+        <file>ui/Panel.qml</file>
+        <file>ui/MenuBar.qml</file>
+        <file>ui/ToolButton.qml</file>
+        <file>ui/ToolBar.qml</file>
+        <file>ui/AboutWindow.qml</file>
+        <file>ui/StatusBar.qml</file>
+        <file>ui/ContentPanel.qml</file>
+        <file>images/brain.png</file>
+        <file>fonts/fontawesome-webfont.ttf</file>
+        <file>ui/TableViewContextMenu.qml</file>
+        <file>ui/qmldir</file>
+        <file>ui/MenuItem.qml</file>
+        <file>ui/MenuSeparator.qml</file>
+        <file>ui/MenuCheckBoxItem.qml</file>
+    </qresource>
+</RCC>
