@@ -19,6 +19,15 @@
 
 * Windows
 
+## Screens
+<details>
+<p>
+
+![GUI](screen-01.png "GUI")
+
+</p>
+</details>
+
 ## License
 
 License information is in the file [License.md](License.md)
