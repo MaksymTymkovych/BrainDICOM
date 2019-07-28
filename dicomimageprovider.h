@@ -44,6 +44,7 @@ public:
             {
               if (image->getStatus() == EIS_Normal)
               {
+                image->setMinMaxWindow();
                 int width = image->getWidth();
                 int height = image->getHeight();
                 if (size)
